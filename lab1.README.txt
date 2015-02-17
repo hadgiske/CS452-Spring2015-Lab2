@@ -1,1 +1,15 @@
-name, date, description
+/*
+*	Katie Hadgis
+*	CS452 Computer Graphics
+*	Homework #2
+*	02/17/15
+*
+*
+*	lab2.js:
+*		- Creates and colors a star shape
+*		- Star can be moved usind WASD navigation
+*
+*	lab1.html:
+*		- Displays the shape from lab2.js
+*	
+*/
