@@ -9,7 +9,7 @@
 *		- Creates and colors a star shape
 *		- Star can be moved usind WASD navigation
 *
-*	lab1.html:
+*	lab2.html:
 *		- Displays the shape from lab2.js
 *	
 */
